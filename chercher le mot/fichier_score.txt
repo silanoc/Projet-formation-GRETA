@@ -1,0 +1,22 @@
+z ; 155
+y ; 157
+z ; 255
+z ; 155
+y ; 157
+z ; 255
+y ; 157
+z ; 255
+z ; 155
+y ; 157
+z ; 255
+testtk ; 12
+azerty ; 20
+wzx ; 130
+wzx ; 161
+jouair sans nom ; 30
+sofiane ; 115
+jouair sans nom ; 82
+jouair sans nom ; 130
+jouair sans nom ; 25
+hjk ; 170
+azer ; 39
