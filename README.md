@@ -18,3 +18,11 @@ Site fait en deux jours lors de la formation pour apprendre à afficher des rés
 
 ## perso_jdr
 Pour s'initier aux héritages.
+
+## copie ecran projet arbres
+Les dernières semaines de la formation étaient une mise en situation où nous devions produire une présentation sur les arbres de Paris.
+À partir d’un fichier issu de ParisData, avec du python/pandas, nous avons généré des graphes et Google-cartes, le tout dans un site en Django.
+Il y a plus de 204.000 arbres référencés.
+Ce que vous voyez est donc des extraits de ce travail de groupe. Merci à Abderrahim, Chaïma Guellim, Jarfar B. et Tatiana Angeon pour ce travail collectif.
+- back : Python, pandas, seaborn, gmap
+- front : django
